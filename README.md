@@ -1,13 +1,16 @@
 # Nice Walls
 
+## What is this
+
 - I'm addicted to collecting wallpapers.
 - This is my wallpaper collection that I use on my system.
-- This repo has unorganized Anime/random wallpapers
+- This repo has unorganized Anime/random wallpapers.
 
 ## How to download these wallpapers
 
 ```sh
-git clone https://github.com/Guchii/nice-wallpapers ~/.local/share/wallpapers
+git clone https://github.com/Guchii/Nice_Walls ~/.local/share/wallpapers
 ```
 
+You can contribute some wallpapers by making a pull request.
 Thank You.
