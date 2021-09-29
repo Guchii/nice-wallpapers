@@ -2,7 +2,6 @@
 
 ## What is this
 
-- I'm addicted to collecting wallpapers.
 - This is my wallpaper collection that I use on my system.
 - This repo has unorganized Anime/random wallpapers.
 
